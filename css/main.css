@@ -101,14 +101,13 @@ li {
   margin: 15px 0;
   width: 100%;
   text-align: left;
-  color: wheat;
   font-size: 25px;
   font-weight: 700;
   border-bottom: 1px solid gray;
 }
 
 .mobile-menu a {
-  color: wheat;
+  color: #FFF5E1;
 }
 
 .show {

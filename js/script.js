@@ -3,7 +3,7 @@ const openMenu = document.querySelector('.menu-bars');
 const mobileNavLinks = document.querySelectorAll('.mobile-nav-link');
 
 closeMenu.addEventListener('click', () => {
-  document.querySelector('mobile-menu').classList.remove('show');
+  document.querySelector('.mobile-menu').classList.remove('show');
 });
 
 openMenu.addEventListener('click', () => {
