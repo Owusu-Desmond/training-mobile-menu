@@ -13,7 +13,6 @@
 
 ## Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 To get a local copy up and running follow these simple example steps.
 
 ## 🛠 Installation & Set Up
@@ -21,6 +20,10 @@ To get a local copy up and running follow these simple example steps.
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
 
 [Download the ZIP from this location](https://github.com/Owusu-Desmond/training-mobile-menu/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+
+```bash
+git clone https://github.com/Owusu-Desmond/training-mobile-menu.git
+```
 
 - Once the files are on your machine, open the index.html file in your browser to view the project.
 
